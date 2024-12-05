@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Saha</h1>
-<h3 align="center">A computer science undergraduate from National Institute of Technology</h3>
+<h3 align="center">A computer science undergraduate from National Institute of Technology, Durgapur</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehasaha1101" alt="snehasaha1101" /></a> </p>
 
